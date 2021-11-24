@@ -5,3 +5,4 @@ dependencies:
   - r-tidyverse
   - r-desctools
   - r-lsr
+  - r-ggplot2
